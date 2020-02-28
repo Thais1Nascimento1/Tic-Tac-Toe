@@ -1,0 +1,46 @@
+table{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+      border-radius: 10%;
+}
+
+td{
+  border: 3px solid black;
+  height: 130px;
+  width:20%;
+  font-size: 80px;
+    text-align: center;
+   font-family: 'Amatic SC';
+    margin-top: 10%;
+    border-radius: 33%;
+    border-color: yellow;
+  border-style: groove;
+  background: #FCC;
+}
+
+
+h1{
+  text-align: center;
+  font-family: 'Amatic SC';
+  font-size: 10vw;
+  color:yellow;
+  border: 30px solid yellow;
+    border-radius: 49%;
+    border-style: dotted;
+}
+img{
+margin-left: 35%;
+  background-image: url("backround.jpg");
+}
+button{
+    margin-left: 47%;
+    font-size: 50px;
+    font-family: 'Amatic SC';
+    border-radius: 30%;
+    background-color: yellow;
+}
+
+body{
+  background-image: url("backround.jpg");
+}
